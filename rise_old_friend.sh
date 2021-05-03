@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo "I will rise again..."
-sudo yay -S archlinux-keyring
-sudo yay -Syu
+sudo pacman -S archlinux-keyring
+sudo pacman -Syu
